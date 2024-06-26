@@ -1,2 +1,2 @@
-# education_Websiite
-This is  Edtech company whereever we deal with coding
+# education_Website
+This is  Edtech company wherever we deal with coding
